@@ -1,4 +1,5 @@
-<h1> Página inicial do Instagram
+<h1> Página inicial do Instagram </h1>
+
 Reprodução da página de login do Instagram, abordando os conceitos sobre CSS Flexbox e responsividade.
 
 Projeto desenvolvido para prática e participação do Lab "Recriando a página inicial do Instagram" da Digital Innovation One.
